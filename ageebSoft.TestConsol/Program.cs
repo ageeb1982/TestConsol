@@ -6,7 +6,7 @@ namespace ageebSoft.TestConsol
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("al salam 3alekom");
         }
     }
 }
