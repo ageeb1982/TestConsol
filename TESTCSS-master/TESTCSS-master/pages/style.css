@@ -1,0 +1,57 @@
+
+
+.onlineChat {
+    margin: 0 auto;
+    padding: 0;
+    position: fixed;
+    z-index: 10;
+    box-shadow: 0 0 5px black;
+    padding: 0px;
+    border: dotted 1px;
+    white-space: nowrap;
+    overflow-x: auto;
+}
+
+warning.collapsed-box {
+    margin-bottom: 0px;
+}
+    .onlineChat > div {
+        white-space: normal;
+    }
+
+
+/*.onlineChat>div>div {
+    margin: 0px;
+    background-color: yellow;
+    position: static;
+    width: 300px;
+    top: 0px;
+} 
+      .onlineChat>div .collapsed-box:parent {
+        margin-bottom: -40px;
+    
+    background-color: red;
+}   */
+
+.dChat {
+    white-space: normal;
+    display: inline-flex;
+    /*zoom: 1;
+  vertical-align: bottom;*/
+    float: left;
+    width: 300px;
+    bottom: 0px;
+    margin: 0px;
+    bottom: 0px;
+    padding: 0px;
+    margin-left: 10px;
+    margin-bottom: 0px !important;
+    /*position: unset !important;*/
+    background-color: red;
+}
+/*
+.dChat .collapsed-box{
+  bottom: 0px;
+  margin-bottom: 0px;
+ 
+}*/
